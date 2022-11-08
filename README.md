@@ -19,7 +19,7 @@ Ritvik Kondabathini – 801275238
 
 Sarath Chillakuru – 801314925
 
-COMMUNICATION PLAN
+**COMMUNICATION PLAN**
 
 	Methods of Communication: Slack for day-to-day conversation and syncing. Email for a more formal and documented way of communication.
 
@@ -31,12 +31,12 @@ COMMUNICATION PLAN
 
 	Division of work: Work is divided between the team members in the form modules. Any overload can be brought to the notice of the other members so it can be divided or redistributed.
 
-PROJECT ARTIFACT REPOSITORY
+**PROJECT ARTIFACT REPOSITORY**
 
 All of our work can be found in the public repository that has been created on GitHub.
 The link to the repository is - https://github.com/nvijay1/bigdata14
 
-2.	BUSINESS PROBLEM, OPPORTUNITY,  DOMAIN KNOWLEDGE BUSINESS PROBLEM
+2.	**BUSINESS PROBLEM, OPPORTUNITY,  DOMAIN KNOWLEDGE BUSINESS PROBLEM**
 The dataset presents CSV files of flood statistics for the 48 contiguous states at the congressional district, county, and zip code level. The CSV for each of these geographical extents includes statistics on the number of properties at risk according to FEMA, the number of properties at risk according to First Street Foundation.
 The flood statistics data can help us understand and gain insights on how well the government or an organization needs to be prepared to during floods and helps us to get an estimate of the damages that would incur.
 DOMAIN REFERENCES
@@ -44,23 +44,24 @@ https://assets.firststreet.org/uploads/2020/06/first_street_foundation__first_na
 
 https://firststreet.org/research-lab/
 
-3.	SELECTION OF DATASET
+3.	**SELECTION OF DATASET**
 DATASET
 https://registry.opendata.aws/fsf-flood-risk/
 
-4.	RESEARCH OBJECTIVES AND QUESTIONS
-RESEARCH OBJECTIVE
+4.	**RESEARCH OBJECTIVES AND QUESTIONS**
+
+**RESEARCH OBJECTIVE**
 
 Using the historical data from FEMA and First street foundation, we aim to predict the number of properties that would be affected in case of floods with various risk factors. We also intent to study data from the two organizations and provide a comparative analysis of how each organization calculates the number of properties affected with floods of various risk scores.
 
-EXAMPLE DESCRIPTIVE QUESTIONS
+**EXAMPLE DESCRIPTIVE QUESTIONS**
 
 1. Comparing the annual peak flows by regions (for a tenure of 10 years or more)
 2. Where are there unexpectedly high building and content loss, given the number of structures?
 3. Identifying areas of high potential losses.
 4. What are the historic flood outlines for each state?
 
-EXAMPLE PREDICTIVE QUESTIONS
+**EXAMPLE PREDICTIVE QUESTIONS**
 
 1. We will forecast the likelihood of a 100-year flood in each state in any given year?
 2. Find the zip codes with the highest percentage of properties at risk of flooding in the future.
