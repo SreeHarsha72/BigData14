@@ -1,13 +1,10 @@
-ITCS 6100 Big Data Analytics for Competitive Advantage
-Fall 2022 - 
+ # ITCS 6100 Big Data Analytics for Competitive Advantage - Fall 2022
 
-Group 14 – TERM PROJECT
-Project Deliverable 1: Group Formation and                   Project Understanding
-First Street Foundation (FSF) Flood Risk Summary Statistics
 
-1.	TEAM
+## First Street Foundation (FSF) Flood Risk Summary Statistics
 
-TEAM MEMBERS
+
+**TEAM MEMBERS**
 
 Harika Moole – 801318334 
 
