@@ -53,6 +53,10 @@ We will forecast the likelihood of a 100-year flood in each state in any given y
 Find the zip codes with the highest percentage of properties at risk of flooding in the future.
 Find the counties in each state that are most at risk.
 
+## Presentation Links
+### [DELIVERABLE 2 presentation Link](https://drive.google.com/file/d/11N0QlIbqifgggoV3oQCOwl5WX3jElJLH/view?usp=share_link)
+### [DELIVERABLE 3 presentation Link](https://drive.google.com/file/d/1UWXVgY6d3aCqMEOhIO7L5Zsv_pTmz96I/view?usp=sharing)
+
 ### DELIVERABLE - 2
 
 The Flood risk summary dataset is divided into four parts providing summary statistics correlating to each state, district, county, and zip code. Four files include the data collected by First street foundation and FEMA.
