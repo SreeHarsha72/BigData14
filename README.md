@@ -125,7 +125,7 @@ This dashboard compares one risk factor each from high, medium, and low ranges. 
 
 
 ### DELIVERABLE - 3
-For Deliverable 3, we explore various ML modeling through AWS Sagemaker Canvas and also AWS Sagemaker Notebook Instance. The data utilized is the zipcode data 
+For Deliverable 3, we explore various ML modeling through AWS Sagemaker Canvas. The data utilized is the zipcode data 
 
 ### ANALYTICS AND MACHINE LEARNING
 We developed a regression model to predict the number of properties destroyed by utilizing other data columns as features. We make use of the AWS Sagemaker canvas service to design a suitable regression model to predict the number of properties damaged.
