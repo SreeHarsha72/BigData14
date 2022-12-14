@@ -51,4 +51,4 @@ We will forecast the likelihood of a 100-year flood in each state in any given y
 Find the zip codes with the highest percentage of properties at risk of flooding in the future.
 Find the counties in each state that are most at risk.
 
-![Alt text](/image.png?raw=true "Optional Title")
+![Alt text](/Screenshots/image.png?raw=true "Optional Title")
