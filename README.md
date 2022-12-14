@@ -173,7 +173,7 @@ Following are the model prediction results.
 ![alt text](/Screenshots/ML8.png)
 
 
-The complete predictions file is available at # File link
+The complete predictions file is available at [Flood_Summary_predictions](/Flood_Summary_predictions.csv)
 
 ##RESULTS
 
