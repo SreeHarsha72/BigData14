@@ -90,7 +90,7 @@ Data Preparation
 For data modeling, we need to prepare the data and segregate it into three categories to set different levels of flood risks. We have used file - fsf_flood_zcta_summary to classify data. We have used AWS Sage maker Notebook Instance and using pandas, we have written the code to organize and group the data as required for the following data modeling steps. We have combined four columns- count_floodfactor1, count_floodfactor2, count_floodfactor3, and count_floodfactor4 to form a low-risk factor combined value. We combined count_floodfactor5, count_floodfactor6, and count_floodfactor7 cues data to derive a medium risk factor. Finally, for the high-risk factor value, we have used count_floodfactor8, count_floodfactor9, and count_floodfactor10.
 
 Please find the link below for the data preparation and exploratory data analysis.
-# link
+[Data Analysis and preparation steps](/Data%20Analysis.ipynb)
 
 
 
