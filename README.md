@@ -174,7 +174,9 @@ Following are the model prediction results.
 
 
 The complete predictions file is available at # File link
-RESULTS
+
+##RESULTS
+
 The model generated is a simple linear regression model and it is evaluated on RMSE. The value of RMSE for our model is 165.417
 
 ![alt text](/Screenshots/ML9.png)
