@@ -104,7 +104,8 @@ As a part of data visualization, we have utilized AWS Quick Sight service for cr
 
 ### Properties damaged by state:
 
-Here we use a map of America to visualize the number of properties damaged. This is indicated by the color tone of the state. A Histogram shows the Properties difference between FEMA and First Street by Count. We also have a Pie-chart that shows Properties difference between FEMA and First Street by Percentage.
+Here we use a map of America to visualize the number of properties damaged. This is indicated by the color tone of the state. A Histogram shows the Properties difference between FEMA and First Street by Count. We also have a Pie-chart that shows Properties difference between FEMA and First Street by Percentage. 
+
 ![alt text](/Screenshots/Visualization1.jpg)
 
 
