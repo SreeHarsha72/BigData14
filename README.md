@@ -1,4 +1,4 @@
-##ITCS 6100 Big Data Analytics for Competitive Advantage - Fall 2022
+## ITCS 6100 Big Data Analytics for Competitive Advantage - Fall 2022
 First Street Foundation (FSF) Flood Risk Summary Statistics
 TEAM MEMBERS
 
