@@ -122,7 +122,7 @@ This dashboard compares one risk factor each from high, medium, and low ranges. 
 
 ![alt text](/Screenshots/viz3.jpg)
 
-
+### [DELIVERABLE 2 presentation Link](https://drive.google.com/file/d/11N0QlIbqifgggoV3oQCOwl5WX3jElJLH/view?usp=share_link)
 
 ### DELIVERABLE - 3
 For Deliverable 3, we explore various ML modeling through AWS Sagemaker Canvas. The data utilized is the zipcode data 
@@ -175,6 +175,7 @@ The model generated is a simple linear regression model and it is evaluated on R
 
 ![alt text](/Screenshots/ML9.png)
 
+### [DELIVERABLE 3 presentation Link](https://drive.google.com/file/d/1UWXVgY6d3aCqMEOhIO7L5Zsv_pTmz96I/view?usp=sharing)
 
 ### FUTURE WORK AND COMMENTS
 
