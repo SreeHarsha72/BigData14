@@ -12,6 +12,8 @@ Ritvik Kondabathini – 801275238
 
 Sarath Chillakuru – 801314925
 
+Sree Harsha Nimmagadda - 801308050
+
 ### COMMUNICATION PLAN
 
  Methods of Communication: Slack for day-to-day conversation and syncing. Email for a more formal and documented way of communication.
